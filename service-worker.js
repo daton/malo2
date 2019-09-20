@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/malo2/precache-manifest.34e58de3b7b1bd131f0b0dafc7191a3e.js"
+  "/precache-manifest.bbd8ee80ad5d04adbe34a88ebe2a78dc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "malo2"});
